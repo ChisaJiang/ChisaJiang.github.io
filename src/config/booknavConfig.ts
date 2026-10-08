@@ -6,7 +6,7 @@ export const booknavPageConfig: BooknavPageConfig = {
 	title: "",
 
 	// 页面描述文本，如果留空则使用 i18n 中的翻译
-	description: "",
+	description: "可能某些网站链接失效",
 
 	// favicon 自动获取配置
 	favicon: {
@@ -41,30 +41,30 @@ export const booknavConfig: BooknavGroup[] = [
 				icon: "fa7-brands:github",
 				weight: 10,
 			},
-			{
-				title: "MDN Web Docs",
-				url: "https://developer.mozilla.org",
-				desc: "最权威的 Web 技术文档",
-				weight: 9,
-			},
-			{
-				title: "Astro",
-				url: "https://astro.build",
-				desc: "内容驱动型网站的 Web 框架",
-				weight: 8,
-			},
-			{
-				title: "Svelte",
-				url: "https://svelte.dev",
-				desc: "把组件编译成高效原生 JS 的框架",
-				weight: 7,
-			},
-			{
-				title: "Tailwind CSS",
-				url: "https://tailwindcss.com",
-				desc: "一个功能强大且灵活的 CSS 框架",
-				weight: 6,
-			},
+			// {
+			// 	title: "MDN Web Docs",
+			// 	url: "https://developer.mozilla.org",
+			// 	desc: "最权威的 Web 技术文档",
+			// 	weight: 9,
+			// },
+			// {
+			// 	title: "Astro",
+			// 	url: "https://astro.build",
+			// 	desc: "内容驱动型网站的 Web 框架",
+			// 	weight: 8,
+			// },
+			// {
+			// 	title: "Svelte",
+			// 	url: "https://svelte.dev",
+			// 	desc: "把组件编译成高效原生 JS 的框架",
+			// 	weight: 7,
+			// },
+			// {
+			// 	title: "Tailwind CSS",
+			// 	url: "https://tailwindcss.com",
+			// 	desc: "一个功能强大且灵活的 CSS 框架",
+			// 	weight: 6,
+			// },
 		],
 	},
 	{
@@ -127,6 +127,12 @@ export const booknavConfig: BooknavGroup[] = [
 				title: "Carbon",
 				url: "https://carbon.now.sh",
 				desc: "把代码片段生成漂亮的图片",
+				weight: 8,
+			},
+			{
+				title: "无损音乐下载",
+				url: "https://flac.music.hi.cn",
+				desc: "提供无损音乐下载服务",
 				weight: 8,
 			},
 		],
