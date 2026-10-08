@@ -6,13 +6,13 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Chisa blog",
+	title: "ChisaJiang blog",
 
 	// 站点副标题
-	subtitle: "Chisa blog",
+	subtitle: "ChisaJiang blog",
 
 	// 站点 URL
-	site_url: "https://xiaobai-z-qi.github.io/",
+	site_url: "https://ChisaJiang.github.io/",
 
 	// 站点描述
 	description:
@@ -55,7 +55,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/firefly-32.png",
+			src: "/favicon/chisa.jpg",
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
@@ -81,7 +81,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "Chisa",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
