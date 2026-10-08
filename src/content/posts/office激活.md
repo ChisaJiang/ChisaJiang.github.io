@@ -4,6 +4,7 @@ published: 2026-08-19
 description: 这篇文章记录了怎么通过Office Tool激活Office。
 tags: [激活, Office, Office Tool]
 category: 工具合集
+author: Chisa
 slug: office-activation
 ---
 
