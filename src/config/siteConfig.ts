@@ -15,8 +15,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://ChisaJiang.github.io/",
 
 	// 站点描述
-	description:
-		"个人博客",
+	description: "个人博客",
 
 	// 站点关键词
 	keywords: [
