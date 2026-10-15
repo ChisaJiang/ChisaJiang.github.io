@@ -135,6 +135,12 @@ export const booknavConfig: BooknavGroup[] = [
 				desc: "提供无损音乐下载服务",
 				weight: 8,
 			},
+			{
+				title: "图吧工具箱",
+				url: "https://www.tbtool.cn",
+				desc: "提供各种实用的电脑工具",
+				weight: 8,
+			},
 		],
 	},
 	{
